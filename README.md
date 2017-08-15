@@ -34,6 +34,7 @@
 ## General Guides
 1. [Approaching (Almost) Any Machine Learning Problem](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
 2. [如何在Kaggle首战中进入前10%](https://dnc1994.com/2016/04/rank-10-percent-in-first-kaggle-competition/)
+3. [Kaggle数据挖掘比赛经验分享——陈成龙](https://zhuanlan.zhihu.com/p/26820998)
 
 
 
@@ -42,7 +43,7 @@
 
 
 ## Solutions
-
+1. [1st Place Solution for Search Results Relevance Competition on Kaggle](https://github.com/ChenglongChen/Kaggle_CrowdFlower)
 
 
 
